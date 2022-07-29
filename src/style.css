@@ -38,14 +38,6 @@ div{
   color: darkred;
 }
 
-botao{
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 15px;
-  color: darkred;
-  position: static;
-  text-align: center;
-}
-
 #botao{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 15px;
@@ -53,3 +45,11 @@ botao{
   position: static;
   text-align: center;
 }
+#botao[
+type = button
+]:hover
+{
+  background-color: brown;
+  color: white;
+}
+  

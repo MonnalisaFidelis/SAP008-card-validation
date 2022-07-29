@@ -23,10 +23,10 @@
     <img src="cartao-mf-bank.png" alt="Cartao PNG"> 
                 <div class="card-item__wrapper">
                   <div class="card-item__top">
-            
+       <br>     
        <br>
-      <form id="formulario" class="formulario">
-        <p>Número do Cartão*: <input type="number" name="nDumerooCartao" id="numeroDoCartao" maxlength="16" placeholder="xxxx-xxxx-xxxx-xxxx"></p>
+      <form class="formulario">
+        <p>Número do Cartão*: <input type="number" name="numCartao" id="numCartao" maxlength="16" placeholder="xxxx-xxxx-xxxx-xxxx"></p>
         <p>Nome no Cartão*: <input type="text" name="nomeImpressoNoCartão" id="nomeImpressoNoCartão"></p>
         <div class="card-form__group">
         <label for="cardMonth" class="card-input__label">D. Validade*:</label>
@@ -34,10 +34,12 @@
         <option value="Data">Mês/Ano</option> <input type="month">  
       </select>
         </div>
-        <p>CVV*: <input type="number" name="cvv" id="cvv">
+        <p>CVV*: <input type="number" name="cvv" id="cvv"></p>
         <p><input type="button" value="Validar" id="botao" class="botao"></p>
-       <p id="altCard"></p>
+       <p id="respostaCartao"></p>
        </form> 
   </body>
 </html>
 </main>
+
+
