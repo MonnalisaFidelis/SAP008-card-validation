@@ -3,12 +3,41 @@
   <head>
     <meta charset="utf-8">
     <title>Tarjeta de crédito válida</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
   <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-    <script src="index.js" type="module"></script>
+    <header>
+     <br> 
+    <h1>Bem vinda!</h1> 
+    <br>
+    <h2>Para validar e liberar seu MF Cartão Virtual <br> 
+      e fazer suas compras, digite o Númedo do Cartão, <br>
+      Nome Impresso no Cartão, Data de Validade e o <br>
+      Código CVV, fornecidos pelo app Meu MF Bank nos campos abaixo:</h2>
+    </header>
+  </body>
+<main>
+  <section>
+  <br>
+    
+    <img src="cartao-mf-bank.png" alt="Cartao PNG"> 
+                <div class="card-item__wrapper">
+                  <div class="card-item__top">
+            
+       <br>
+      <form id="formulario" class="formulario">
+        <p>Número do Cartão*: <input type="number" name="nDumerooCartao" id="numeroDoCartao" maxlength="16" placeholder="xxxx-xxxx-xxxx-xxxx"></p>
+        <p>Nome no Cartão*: <input type="text" name="nomeImpressoNoCartão" id="nomeImpressoNoCartão"></p>
+        <div class="card-form__group">
+        <label for="cardMonth" class="card-input__label">D. Validade*:</label>
+        <select class="card-input__input -select" id="cardMonth" v-model="cardMonth" v-on:focus="focusInput" v-on:blur="blurInput" data-ref="cardDate"> 
+        <option value="Data">Mês/Ano</option> <input type="month">  
+      </select>
+        </div>
+        <p>CVV*: <input type="number" name="cvv" id="cvv">
+        <p><input type="button" value="Validar" id="botao" class="botao"></p>
+       <p id="altCard"></p>
+       </form> 
   </body>
 </html>
+</main>
