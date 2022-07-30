@@ -3,53 +3,40 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Tarjeta de crédito válida</title>
+  <title>Validador de cartão</title>
   <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
-<body>    
+<body>
   <br>
   <div>
-    <section class="nomeMarca"> 
-      <h1>Bem vinda!</h1> 
-      <br>
-      <h2>Para validar e liberar seu MF Cartão Virtual <br> 
-      e fazer suas compras, digite o Númedo do Cartão, <br>
-      Nome Impresso no Cartão, Data de Validade e o <br>
-      Código CVV, fornecidos pelo app Meu MF Bank nos campos abaixo:</h2>
+    <section class="nomeMarca">
+      <h1>Bem vinda!</h1>
+      <p>Para validar e liberar seu MF Cartão Virtual <br> 
+        e fazer suas compras, digite o Númedo do Cartão, <br>
+        Nome Impresso no Cartão, Data de Validade e o <br>
+        Código CVV, fornecidos pelo app Meu MF Bank nos campos abaixo:</p>
+        <br>
+        <img src="cartao-mf-bank.png" alt="CartaoPng"><br><br>
+
     </section>
   </div>
-  <br>
-  <div>    
-    <section class="imgCartão">
-    <img src="cartao-mf-bank.png" alt="Cartao PNG"> 
-                <div class="card-item__wrapper">
-                  <div class="card-item__top">
-                </div>
-                </div>   
-    </section>
-      <br>     
- <div>  
-    <form class="formulario">
-      <p>Número do Cartão*: <input type="number" name="numCartao" id="numCartao" maxlength="16" placeholder="xxxx-xxxx-xxxx-xxxx"></p>
+  <div>
+    <form>
+      Nome no Cartão*: <input type="text" id="nomeNoCartão"><br><br>
 
-      <p>Nome no Cartão*: <input type="text" name="nomeNoCartão" id="nomeNoCartão"></p>
-
-      <p>Data de Validade*: <input type="month" name="dValid" id="dValid"></p>
+      Data de Validade*: <input type="month" id="dValid"><br><br>
         
-      <p>CVV*: <input type="number" name="cvv" id="cvv"></p>
-
-      <p><input type="button" value="Validar" id="botao" class="botao"></p>
+      CVV*: <input type="number" id="cvv"><br><br>
+     Número do Cartão <input type="text" id="numDigitado"><br><br>
+      <input type="button" id="botao" value="Validar"></button> 
       <p id="outCard"></p>
-    </form> 
- </div>
- <script src="index.js" type="module"></script>
+    </form>
+  </div>
+  <script src="index.js" type="module"></script>
 </body>
 <footer>- x -</footer>
 
 </html>
 
 </html>
-
-
-
