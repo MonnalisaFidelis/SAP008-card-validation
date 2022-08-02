@@ -2,9 +2,9 @@
 
 ## Índice
 
-* [1. Introdução](#1-Introdução)
-* [2. Resumo do projeto](#2-resumo-do-projeto)
-* [3. Objetivos de aprendizagem](#3-objetivos-de-aprendizagem)
+* [1. Sobre](#1-Sobre)
+* [2. Objetivo do Projeto](#2-resumo-do-projeto)
+* [3. Contexto Criado pela Desenvolvedora](#3-Contexto-Criado-pela-Desenvolvedora)
 * [4. Considerações gerais](#4-consideracoes-gerais)
 * [5. Critérios mínimos de aceitação do
   projeto](#5-criterios-de-aceptacao-mínimos-do-projeto)
@@ -13,7 +13,7 @@
 
 ***
 
-## 1. Introdução
+## 1. Sobre
 
 O [algoritmo de Luhn](https://en.wikipedia.org/wiki/Luhn_algorithm), também
 chamado de módulo 10, é um método de soma de verificação, usado para validar
@@ -29,22 +29,19 @@ seus dígitos finais for um múltiplo de 10.
 ![gráfico do algoritmo de
 Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 
-## 2. Resumo do projeto
+## 2. Objetivo do Projeto
 
-O objetivo do projeto é criar um aplicativo da Web que permita ao usuário validar o número de um cartão de crédito. Além disso, esse aplicativo web também terá uma funcionalidade para ocultar todos os dígitos de um cartão, exceto os quatro últimos.
+O objetivo do projeto é criar um aplicativo da Web que permita ao usuário validar o número de um cartão de crédito, dentro de um contexto real criado pela desenvolvedora. O aplicativo web também deverá conter uma funcionalidade para ocultar os primeiros dígitos e deixar visível os quatro últimos.
+O mesmo deve ser executado em  Js, HTML e CSS.
 
-Este é o fluxograma inicial do projeto:
+Este é o Figma inicial do projeto:
 
-
-
-
-
+[resumo do projeto](https://www.figma.com/file/U2qsGRX4FCJQHTe0xzNAQL/Projeto-Card-Validation-MF?node-id=0%3A1)
 
 
+## 3. Contexto Criado pela Desenvolvedora
 
-## 3. Objetivos de aprendizagem
-
-Reflita e depois enumere os objetivos que quer alcançar e aplique no seu projeto. Pense nisso para decidir sua estratégia de trabalho.
+O aplicativo atende os clientes do Banco MF que desejam fazer uma compra única, online; para isso eles devem solicitar um cartão de compra única no app do banco e validar no aplicativo, informando os dados gerados.
 
 ### HTML
 
