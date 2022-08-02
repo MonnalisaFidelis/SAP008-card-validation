@@ -35,7 +35,7 @@ O mesmo deve ser desenvolvido em  Js, HTML e CSS.
 
 Este é o plano do projeto inicial, desenvolvido no Figma:
 
-[resumo do projeto](/home/monnalisa/SAP008-card-validation/src/figma-cadvalidation-mona.png)
+[Plano do projeto](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/figma-cadvalidation-mona.png)
 
 
 ## 3. Contexto Criado pela Desenvolvedora
