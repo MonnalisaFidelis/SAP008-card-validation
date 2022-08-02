@@ -3,7 +3,7 @@
 ## Índice
 
 * [1. Sobre](#1-Sobre)
-* [2. Objetivo do Projeto](#2-resumo-do-projeto)
+* [2. Objetivo do Projeto](#2-plano-do-projeto)
 * [3. Contexto Criado pela Desenvolvedora](#3-Contexto-Criado-pela-Desenvolvedora)
 * [4. Funcionalidade](#4-Funcionalidade)
 * [5. Projeto Final](#5-Projeto-Final)
@@ -30,19 +30,19 @@ Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 
 ## 2. Objetivo do Projeto
 
-O objetivo do projeto é criar um aplicativo da Web que permita ao usuário validar o número de um cartão de crédito, dentro de um contexto real criado pela desenvolvedora. O aplicativo web também deverá conter uma funcionalidade para ocultar os primeiros dígitos e deixar visível os quatro últimos.
-O mesmo deve ser executado em  Js, HTML e CSS.
+O objetivo do projeto é criar um aplicativo da Web que permita ao usuário validar o número de um cartão de crédito. O projeto deve estar dentro de um contexto real criado pela desenvolvedora. Deverá também conter uma funcionalidade para ocultar os primeiros dígitos e deixar visível os quatro últimos.
+O mesmo deve ser desenvolvido em  Js, HTML e CSS.
 
-Este é o Figma inicial do projeto:
+Este é o plano do projeto inicial, desenvolvido no Figma:
 
-[resumo do projeto](https://www.figma.com/file/U2qsGRX4FCJQHTe0xzNAQL/Projeto-Card-Validation-MF?node-id=0%3A1)
+[resumo do projeto](/home/monnalisa/SAP008-card-validation/src/figma-cadvalidation-mona.png)
 
 
 ## 3. Contexto Criado pela Desenvolvedora
 
-O aplicativo atende os clientes do Banco MF, que desejam fazer uma compra única e online; para isso eles devem solicitar um cartão de compra única no app do banco e validar no aplicativo, informando os dados gerados.
+Este aplicativo foi criado para atender os clientes do Banco MF, que desejam fazer uma compra única e online; para isso eles devem solicitar um cartão de compra única no app do banco e validar neste aplicativo, informando os dados gerados.
 
-No aplicativo, o cliente terá dois caminhos, conforme o Flixograma abaixo
+No aplicativo, o cliente terá dois caminhos, conforme o Fluxograma abaixo:
 
 
 [Fluxograma](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/fluxograma-cardvalidation-mona.png)
@@ -54,7 +54,7 @@ No aplicativo, o cliente terá dois caminhos, conforme o Flixograma abaixo
 - [x] Formulário Local para inserir os dados do cartão
 - [x] Botão para ativar uma verificação
 - [x] Alerta com os primeiros números do cartão mascarados com # e os quatro últimos visíveis
-- [x] Botão no alerta, que limpa os dapos para   inserir outros, sem precisar sair do aplicativo
+- [x] Botão no alerta, que limpa os dados para   inserir outros, sem precisar sair do aplicativo
 
 
 ## 5. Projeto Final
@@ -78,6 +78,7 @@ Cartão Inválido
 - HTML
 - CSS
 - JavaScript
+- Canva
 - Figma
 - Git
 - GitHub
