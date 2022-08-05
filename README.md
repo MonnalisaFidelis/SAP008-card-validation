@@ -1,7 +1,6 @@
 # Cartão de Crédito Válido
 
-## LINK DO PROJETO EM FUNCIONAMENTO 
-(https://monnalisafidelis.github.io/SAP008-card-validation/src/index.html) 
+## [LINK DO PROJETO EM FUNCIONAMENTO](https://monnalisafidelis.github.io/SAP008-card-validation/src/index.html) 
 
 ## Índice
 
