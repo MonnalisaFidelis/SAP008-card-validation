@@ -35,9 +35,9 @@ Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 O objetivo do projeto é criar um aplicativo da Web que permita ao usuário validar o número de um cartão de crédito. O projeto deve estar dentro de um contexto real criado pela desenvolvedora. Deverá também conter uma funcionalidade para ocultar os primeiros dígitos e deixar visível os quatro últimos.
 O mesmo deve ser desenvolvido em  Js, HTML e CSS.
 
-Este é o plano do projeto inicial, desenvolvido no Figma:
+Esta é a prototipagem de baixa fidelidade, desenvolvida no Figma:
 
-[Plano do projeto](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/figma-cadvalidation-mona.png)
+[Prototipagem de Baixa Fidelidade](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/figma-cadvalidation-mona.png)
 
 
 ## 3. Contexto Criado pela Desenvolvedora
