@@ -67,13 +67,13 @@ Início
 
  ![Inicio](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/projeto-final-card-validation-mona.png)
 
-Cartão Válido
-
-  ![Cartão Válido](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/cartao-invalido.png)
-
 Cartão Inválido
 
-  ![Cartão Inválido](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/cartao-valido.png)
+  ![Cartão Invalido](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/cartao-invalido.png)
+
+Cartão Válido
+
+  ![Cartão Válido](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/cartao-valido.png)
 
 ## 6. Ferramentas Utilizadas
 
