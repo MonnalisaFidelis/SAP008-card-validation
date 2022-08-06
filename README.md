@@ -37,7 +37,7 @@ O mesmo deve ser desenvolvido em  Js, HTML e CSS.
 
 Esta é a prototipagem de baixa fidelidade, desenvolvida no Figma:
 
-[Prototipagem de Baixa Fidelidade](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/figma-cadvalidation-mona.png)
+![Prototipagem de Baixa Fidelidade](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/figma-cadvalidation-mona.png)
 
 
 ## 3. Contexto Criado pela Desenvolvedora
@@ -47,7 +47,7 @@ Este aplicativo foi criado para atender os clientes do Banco MF, que desejam faz
 No aplicativo, o cliente terá dois caminhos, conforme o Fluxograma abaixo:
 
 
-[Fluxograma](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/fluxograma-cardvalidation-mona.png)
+![Fluxograma](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/fluxograma-cardvalidation-mona.png)
  
 
 
@@ -65,15 +65,15 @@ No aplicativo, o cliente terá dois caminhos, conforme o Fluxograma abaixo:
 
 Início
 
- [Inicio](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/projeto-final-card-validation-mona.png)
+ ![Inicio](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/projeto-final-card-validation-mona.png)
 
 Cartão Válido
 
-  [Cartão Válido](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/cartao-invalido.png)
+  ![Cartão Válido](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/cartao-invalido.png)
 
 Cartão Inválido
 
-  [Cartão Inválido](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/cartao-valido.png)
+  ![Cartão Inválido](https://github.com/MonnalisaFidelis/SAP008-card-validation/blob/main/src/cartao-valido.png)
 
 ## 6. Ferramentas Utilizadas
 
